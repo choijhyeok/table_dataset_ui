@@ -1,0 +1,10 @@
+theflow
+nest-asyncio
+requests
+numpy
+pandas
+joblib
+aiohttp
+gradio
+openpyxl
+azure-storage-blob==12.27.0
